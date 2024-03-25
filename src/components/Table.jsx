@@ -17,9 +17,6 @@ import { Box, Button, Tooltip } from '@mui/material';
 
 import { useState } from 'react';
 
-
-
-
 const columns = [
   {
     accessorKey: 'id',
